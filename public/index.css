@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    
+    margin: auto;
+    padding: auto;
+    background-color: beige;
+    font-family: Georgia, serif;
+}
+
+header {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding-block: 10px;
+}
+
+header .site-logo {
+    color: black;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+header a {
+
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 5px 20px;
+}
+
+header a:hover {
+    background-color: hotpink;
+    color: #fff;
+    text-decoration: underline;
+    cursor: pointer;
+    transform: translate(1px, 1px);
+}
+
+.link-button {
+    background-color: chocolate;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    padding: .75rem 1.375rem;
+    color: initial;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .1s ease-in-out;
+    text-decoration: underline;
+}
+
+.link-button:hover {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    transform: translate(1px, 1px);
+}
+
+Img {
+Display: block;
+Width: 200px;
+Margin-right: auto;
+} 
+
+.card-body {
+    background: rgba(0, 128, 0, 0.2);
+    border: 5px solid green;
+    padding: 30px;
+    margin: 20px;
+}
+
+.card-title {
+    margin-top: -100px;
+    margin-left: 250px;
+}
+
+.card-text {
+    margin-top: 100px;
+}
+
+iframe {
+    margin-top: 50px;
+    margin-left: 150px;
+}
+h1, h4 {
+    margin-top: 20px;
+    margin-left: 150px; 
+}
+p {
+    margin-top: 20px;
+    margin-left: 150px; 
+}

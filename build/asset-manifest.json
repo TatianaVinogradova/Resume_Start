@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5967383e.js",
+    "static/media/grape.png": "/static/media/grape.2095f541a16a5d028086.png",
+    "static/media/foto.png": "/static/media/foto.103f0762707588382e40.png",
+    "index.html": "/index.html",
+    "main.5967383e.js.map": "/static/js/main.5967383e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5967383e.js"
+  ]
+}
